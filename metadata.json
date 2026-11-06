@@ -1,0 +1,6 @@
+{
+  "name": "KaryaKhata",
+  "description": "दैनिक कार्य और खर्च प्रबंधन - Daily tasks, expense tracker, AI savings suggestions, fingerprint lock, multilingual (Hindi/Urdu/English) with offline & cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
